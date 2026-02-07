@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "セブンティーナ",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2026-02-07T12:52:57.807853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "セブンティーナ",
+      "artist": "Harumakigohan",
+      "has_synced": true,
+      "path": "select/01_セブンティーナ_Harumakigohan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "セブンティーナ",
+      "artist": "Harumaki Gohan",
+      "has_synced": true,
+      "path": "select/02_セブンティーナ_Harumaki_Gohan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "セブンティーナ (Self cover)",
+      "artist": "Harumakigohan",
+      "has_synced": true,
+      "path": "select/03_セブンティーナ_(Self_cover)_Harumakigohan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "セブンティーナ(self cover)",
+      "artist": "Harumaki Gohan",
+      "has_synced": true,
+      "path": "select/04_セブンティーナ(self_cover)_Harumaki_Gohan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "セブンティーナ",
+      "artist": "はるまきごはん",
+      "has_synced": true,
+      "path": "select/05_セブンティーナ_はるまきごはん.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "セブンティーナ",
+      "artist": "Harumaki, Gohan",
+      "has_synced": true,
+      "path": "select/06_セブンティーナ_Harumaki,_Gohan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "セブンティーナ (Self cover)",
+      "artist": "はるまきごはん",
+      "has_synced": true,
+      "path": "select/07_セブンティーナ_(Self_cover)_はるまきごはん.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "セブンティーナ (Self cover)",
+      "artist": "Harumaki, Gohan",
+      "has_synced": true,
+      "path": "select/08_セブンティーナ_(Self_cover)_Harumaki,_Gohan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "セブンティーナ",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/09_セブンティーナ_はるまきごはん.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "セブンティーナ(セルフカバー)",
+      "artist": "はるまきごはん",
+      "has_synced": true,
+      "path": "select/10_セブンティーナ(セルフカバー)_はるまきごはん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "セブンティーナ",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_セブンティーナ_はるまきごはん.txt"
+    }
+  ]
+}
